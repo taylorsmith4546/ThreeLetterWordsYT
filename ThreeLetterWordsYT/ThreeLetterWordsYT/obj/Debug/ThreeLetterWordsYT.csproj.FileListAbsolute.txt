@@ -1,0 +1,6 @@
+C:\Dev\Code Challenges\C#\ThreeLetterWordsYT\ThreeLetterWordsYT\ThreeLetterWordsYT\bin\Debug\ThreeLetterWordsYT.exe.config
+C:\Dev\Code Challenges\C#\ThreeLetterWordsYT\ThreeLetterWordsYT\ThreeLetterWordsYT\bin\Debug\ThreeLetterWordsYT.exe
+C:\Dev\Code Challenges\C#\ThreeLetterWordsYT\ThreeLetterWordsYT\ThreeLetterWordsYT\bin\Debug\ThreeLetterWordsYT.pdb
+C:\Dev\Code Challenges\C#\ThreeLetterWordsYT\ThreeLetterWordsYT\ThreeLetterWordsYT\obj\Debug\ThreeLetterWordsYT.csprojResolveAssemblyReference.cache
+C:\Dev\Code Challenges\C#\ThreeLetterWordsYT\ThreeLetterWordsYT\ThreeLetterWordsYT\obj\Debug\ThreeLetterWordsYT.exe
+C:\Dev\Code Challenges\C#\ThreeLetterWordsYT\ThreeLetterWordsYT\ThreeLetterWordsYT\obj\Debug\ThreeLetterWordsYT.pdb
